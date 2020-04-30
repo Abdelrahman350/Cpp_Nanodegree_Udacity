@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++14 -g  -rdynamic CMakeFiles/NeuralNetwork.dir/src/main.cpp.o CMakeFiles/NeuralNetwork.dir/src/Neuron.cpp.o CMakeFiles/NeuralNetwork.dir/src/Matrix.cpp.o CMakeFiles/NeuralNetwork.dir/src/Layer.cpp.o CMakeFiles/NeuralNetwork.dir/src/Math.cpp.o CMakeFiles/NeuralNetwork.dir/src/NeuralNetwork.cpp.o  -o NeuralNetwork 

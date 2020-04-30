@@ -1,0 +1,3 @@
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CppND-Memory-Management-Chatbot/build/CMakeFiles/rebuild_cache.dir
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CppND-Memory-Management-Chatbot/build/CMakeFiles/edit_cache.dir

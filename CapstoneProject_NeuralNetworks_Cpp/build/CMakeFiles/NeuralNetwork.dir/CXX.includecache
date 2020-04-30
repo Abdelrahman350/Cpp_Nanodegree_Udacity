@@ -1,0 +1,120 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/Layer.hpp
+iostream
+-
+vector
+-
+Neuron.hpp
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/Neuron.hpp
+Matrix.hpp
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/Matrix.hpp
+memory
+-
+
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/Math.hpp
+iostream
+-
+vector
+-
+fstream
+-
+sstream
+-
+cassert
+-
+cmath
+-
+../include/Matrix.hpp
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/Matrix.hpp
+memory
+-
+
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/Matrix.hpp
+iostream
+-
+vector
+-
+random
+-
+iomanip
+-
+memory
+-
+
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/NeuralNetwork.hpp
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+algorithm
+-
+ctime
+-
+Matrix.hpp
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/Matrix.hpp
+Layer.hpp
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/Layer.hpp
+
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/Neuron.hpp
+iostream
+-
+cmath
+-
+
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/src/Layer.cpp
+../include/Layer.hpp
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/Layer.hpp
+
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/src/Math.cpp
+../include/Math.hpp
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/Math.hpp
+
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/src/Matrix.cpp
+../include/Matrix.hpp
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/Matrix.hpp
+
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/src/NeuralNetwork.cpp
+../include/NeuralNetwork.hpp
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/NeuralNetwork.hpp
+../include/Math.hpp
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/Math.hpp
+
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/src/Neuron.cpp
+../include/Neuron.hpp
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/Neuron.hpp
+
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/src/main.cpp
+iostream
+-
+vector
+-
+cstdio
+-
+fstream
+-
+ostream
+-
+streambuf
+-
+ctime
+-
+memory
+-
+../include/Matrix.hpp
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/Matrix.hpp
+../include/Math.hpp
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/Math.hpp
+../include/NeuralNetwork.hpp
+/media/abdelrahman350/New Volume/Abdelrahman/Courses/Cpp_Nanodegree_Udacity/CapstoneProject_NeuralNetworks_Cpp/include/NeuralNetwork.hpp
+
